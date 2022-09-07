@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Gradution" />
+    <file type="web" url="file://$PROJECT_DIR$/Grandution" />
+    <file type="web" url="file://E:/poet_ready_system-master" />
+    <file type="web" url="file://E:/poet_ready_system-master/poet_ready_system-master" />
+    <file type="web" url="file://E:/新建文件夹/Store-Site-master/Store-Site-master" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Gradution/pom.xml" />
+        <option value="E:/新建文件夹/boot/boot/pom.xml" />
+        <option value="E:/新建文件夹/boot/boot/pom.xml.mine" />
+        <option value="E:/新建文件夹/boot/boot/pom.xml.r26632" />
+        <option value="E:/新建文件夹/boot/boot/pom.xml.r26637" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="E:/新建文件夹/boot/boot/lms-admin/pom.xml" />
+        <option value="E:/新建文件夹/boot/boot/lms-common/pom.xml" />
+        <option value="E:/新建文件夹/boot/boot/lms-example/pom.xml" />
+        <option value="E:/新建文件夹/boot/boot/lms-framework/pom.xml" />
+        <option value="E:/新建文件夹/boot/boot/lms-generator/pom.xml" />
+        <option value="E:/新建文件夹/boot/boot/lms-quartz/pom.xml" />
+        <option value="E:/新建文件夹/boot/boot/lms-system/pom.xml" />
+        <option value="E:/新建文件夹/boot/boot/lms-ws/pom.xml" />
+        <option value="E:/新建文件夹/boot/boot/lms.course/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

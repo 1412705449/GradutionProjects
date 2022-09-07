@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Grandution:war">
+    <output-path>$PROJECT_DIR$/Grandution/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>Grandution</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="Grandution.war">
+      <element id="artifact" artifact-name="Grandution:war exploded" />
+    </root>
+  </artifact>
+</component>

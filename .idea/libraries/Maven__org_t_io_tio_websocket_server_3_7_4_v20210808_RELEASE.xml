@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.t-io:tio-websocket-server:3.7.4.v20210808-RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mvnRepository/org/t-io/tio-websocket-server/3.7.4.v20210808-RELEASE/tio-websocket-server-3.7.4.v20210808-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../mvnRepository/org/t-io/tio-websocket-server/3.7.4.v20210808-RELEASE/tio-websocket-server-3.7.4.v20210808-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../mvnRepository/org/t-io/tio-websocket-server/3.7.4.v20210808-RELEASE/tio-websocket-server-3.7.4.v20210808-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

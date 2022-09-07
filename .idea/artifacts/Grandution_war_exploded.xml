@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Grandution:war exploded">
+    <output-path>$PROJECT_DIR$/Grandution/target/Grandution</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>Grandution</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Grandution" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Grandution/target/Grandution/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="Grandution/web/Web" />
+    </root>
+  </artifact>
+</component>

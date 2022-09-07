@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Gradution" />
+        <module name="dangdang_hyh" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dangdang_hyh" target="1.5" />
+      <module name="demo" target="1.8" />
+      <module name="Gradution" target="1.8" />
+      <module name="Grandution" target="1.7" />
+      <module name="labor-boot" target="1.8" />
+      <module name="lms-common" target="1.8" />
+      <module name="lms-example" target="1.7" />
+      <module name="lms-framework" target="1.8" />
+      <module name="lms-generator" target="1.8" />
+      <module name="lms-quartz" target="1.8" />
+      <module name="lms-system" target="1.8" />
+      <module name="lms-ws" target="1.8" />
+      <module name="lms.course" target="1.8" />
+      <module name="myxiaoshuo" target="1.7" />
+      <module name="poet_ready_system" target="1.8" />
+      <module name="sdld" target="1.5" />
+      <module name="sdld (1)" target="1.5" />
+      <module name="sdld (2)" target="1.5" />
+      <module name="sdld (3)" target="1.8" />
+      <module name="sdld (4)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Gradution" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="poet_ready_system" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,81 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="poet_ready_system:war exploded">
+    <output-path>E:/poet_ready_system-master/target/poet_ready_system-0.0.1-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>poet_ready_system</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="poet_ready_system" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:2.6.4" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:2.6.4" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.6.4" />
+          <element id="library" level="project" name="Maven: jakarta.annotation:jakarta.annotation-api:1.3.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.16" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.29" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:2.6.4" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-json:2.6.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.13.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.13.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.13.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.13.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.13.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.13.1" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:2.6.4" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.58" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:9.0.58" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.58" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.16" />
+          <element id="library" level="project" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-starter:1.3.2" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.6.4" />
+          <element id="library" level="project" name="Maven: com.zaxxer:HikariCP:4.0.3" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.3.16" />
+          <element id="library" level="project" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:1.3.2" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.6" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.3.2" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-log4j:1.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.36" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.36" />
+          <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.36" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-reload4j:1.7.36" />
+          <element id="library" level="project" name="Maven: ch.qos.reload4j:reload4j:1.2.19" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.16" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-freemarker:2.6.4" />
+          <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.31" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:5.3.16" />
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.11.3" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.67" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.1.0" />
+          <element id="library" level="project" name="Maven: com.aliyun.oss:aliyun-sdk-oss:2.8.3" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.13" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.15" />
+          <element id="library" level="project" name="Maven: org.jdom:jdom:1.1" />
+          <element id="library" level="project" name="Maven: com.github.qcloudsms:qcloudsms:1.0.6" />
+          <element id="library" level="project" name="Maven: org.json:json:20170516" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpmime:4.5.13" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.15" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:/poet_ready_system-master/target/poet_ready_system-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="poet_ready_system/web/Web" />
+    </root>
+  </artifact>
+</component>
